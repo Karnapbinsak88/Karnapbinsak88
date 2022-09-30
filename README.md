@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Karnapbinsak88
 - 👀 I’m interested in getting experience and job offers on gigs 
-- 🌱 I’m currently learning data science and machine learning
-- 💞️ I’m looking to collaborate on project
+- 🌱 I involved in data science analysis, Machine learning, MS excel, MS power Bi, MS powerpoint, Graphic designs
+- 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me: princewhitesnicer@gamil.com
 
 <!---
